@@ -1,5 +1,5 @@
 # WordOCR
-How hard can it be to make a computer to recognize text from pictures? As a part of Data Mining course in Fall 2009, me and [Jaana](https://www.linkedin.com/in/jaanametsamaa) implemented a small program that extracted letters from pictures and then recognised them.
+How hard can it be to make a computer to recognize text from pictures? As a part of Data Mining course in Fall 2009, me and [Jaana](https://github.com/texmex5) implemented a small program that extracted letters from pictures and then recognised them.
 
 ## This repostiory contains
 * [Project report](../master/wordocr.pdf)
